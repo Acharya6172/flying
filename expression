@@ -1,0 +1,6 @@
+#!/bin/bash
+for M in airplane, halicopter, kite
+do
+echo " $m is all flying stuff "
+done
+
